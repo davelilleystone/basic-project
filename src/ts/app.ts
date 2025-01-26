@@ -1,2 +1,2 @@
 // Main TypeScript file
-console.log("app.js loaded");
+console.log("app.js test");
